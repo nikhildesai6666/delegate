@@ -26,6 +26,7 @@ namespace @delegate
             int sum = myDelegate.Invoke(45, 23);
             Console.WriteLine(sum);
         }
+        Console.
 
 
     }
